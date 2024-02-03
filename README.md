@@ -19,7 +19,8 @@ Desarrollado en el proyecto en vivo de <a href="https://www.twitch.tv/midudev">M
 </div>
 
 
-![image](https://github.com/jefersonfuentes/minimalist-resume/assets/121473165/29625177-3a66-49a5-a74c-e1eea5753da1)
+![image](https://github.com/jefersonfuentes/minimalist-resume/assets/121473165/77c30300-303e-41ee-a919-1288324e40bc)
+
 
 
 
