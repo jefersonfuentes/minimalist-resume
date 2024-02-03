@@ -19,6 +19,9 @@ Desarrollado en el proyecto en vivo de <a href="https://www.twitch.tv/midudev">M
 </div>
 
 
+![image](https://github.com/jefersonfuentes/minimalist-resume/assets/121473165/146a38cb-60a2-4f14-98a9-f83d6f812c76)
+
+
 
 ## 🛠️ Stack
 
