@@ -29,10 +29,10 @@ Desarrollado en el proyecto en vivo de <a href="https://www.twitch.tv/midudev">M
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/jefersonfuentes/minimalist-resume) como _template_ de un proyecto de Astro
+### 1. Usa este [repositorio](https://github.com/jefersonfuentes/minimalist-resume) como _template_ de un proyecto de Astro
 
 
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
+-  [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador del proyecto.
 
 ```bash
 # Activa pnpm en MacOS, WSL & Linux:
