@@ -217,7 +217,7 @@
   }],
   "projects": [
     {
-      "name": "guess the number",
+      "name": "Guess The Number Game",
       "isActive": true,
       "description": "Juego de adivinar un número secreto",
       "highlights": [
@@ -227,7 +227,17 @@
       "url": "https://jefersonfuentes.github.io/guess-the-number-game/"
     },
     {
-      "name": "Oracle One",
+      "name": "Web Resume/CV",
+      "isActive": true,
+      "description": "CV configurable via json",
+      "highlights": [
+        "Astro",
+        "TypeScript"
+      ],
+      "url": "https://github.com/jefersonfuentes/minimalist-resume"
+    },
+    {
+      "name": "Oracle ONE",
       "isActive": true,
       "description": "Projectos del programa Oracle Next Education G6 por Alura Latam",
       "highlights": [
